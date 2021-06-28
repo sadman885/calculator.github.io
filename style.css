@@ -1,0 +1,48 @@
+h1 {
+  font-family: sans-serif;
+}
+.container {
+  text-align: center;
+  margin-top: 23px;
+}
+table {
+  margin: auto;
+}
+input {
+  font-size: 34px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
+button {
+  background-color: #00b176;
+  color: white;
+  font-size: 25px;
+  height: 79px;
+  width: 102px;
+}
+button:hover {
+  cursor: pointer;
+  background-color: #b1004866;
+}
+button:focus {
+  outline: solid 1px black;
+}
+.calculator {
+  display: inline-block;
+}
+.btn-black {
+  color: white;
+  background-color: #000000;
+}
+.btn-violate {
+  color: black;
+  background-color: #7600f3;
+}
+.btn-orange {
+  color: black;
+  background-color: #ff8400;
+}
+#btn-del {
+  width: 100%;
+  color: black;
+}
